@@ -80,7 +80,7 @@ It can be built with:
 
 ## Seed System 🎲
 
-ℹ️ The IFG framework introduces a **deterministic seed system** that injects **controlled visual variation**, without ever changing the **semantic core** of the user’s prompt.
+ℹ️ The IFG framework introduces a **deterministic seed system** that injects **controlled visual variation**, without ever-changing the **semantic core** of the user’s prompt.
 
 When you provide a prompt like:
 
