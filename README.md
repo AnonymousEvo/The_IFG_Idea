@@ -62,11 +62,12 @@ It performs:
 - ➡️ **Contextual adjustment** (modifying parameters based on prompt and history).
 - ➡️ **Seed-driven variability** (so the same prompt doesn't always look the same).
 
-ℹ️ Think of it like a **semantic compiler.**:
+ℹ️ Think of it as a **semantic compiler.**:
 
 **Prompt in → semantic organization → fractals rendered → image assembled.**
 
-ℹ️ This AI doesn't require hundreds of gigabytes of training data.  
+ℹ️ This AI doesn't require hundreds of gigabytes of training data.
+
 It can be built with:
 
 - ➡️ Lightweight NLP (spaCy, MiniLM).
