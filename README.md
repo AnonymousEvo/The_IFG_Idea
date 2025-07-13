@@ -14,8 +14,6 @@
 
 ℹ️ In contrast, a noisy JPEG photo contains high entropy. It can't be compressed much without losing detail, because its structure is not mathematical — it's statistical.
 
----
-
 This distinction is key to IFG:
 
 ℹ️ We use **structured, compressible math** to generate **visual complexity**.
@@ -29,7 +27,7 @@ This distinction is key to IFG:
 - **Efficient**
 - And grounded in **order over chaos**.
 
----
+- 
 
 ⚠️ **Modern image generators are wasteful.**  
 They burn GPU cycles on billions of weights to “guess” how an image *might* look — without true structure, reasoning, or modularity.
@@ -97,7 +95,7 @@ When you provide a prompt like:
 
 ---
 
-### What the Seed Controls?
+**What the Seed Controls?**
 
 ℹ️ The seed value (e.g., `seed = 13745`) determines the **visual and stylistic execution**, including:
 
