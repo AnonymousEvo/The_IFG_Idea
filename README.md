@@ -10,7 +10,7 @@
 ➡️ **The more compressible a piece of data is, the more structured and ordered it is.**  
 ➡️ **The less compressible it is, the more random or chaotic.**
 
-ℹ️ A fractal — like a fern leaf or snowflake — may look infinitely complex, but can often be generated with a **tiny, elegant equation**. That means its **information content is low**, but its **visual complexity is high** — a perfect example of **high structure + low entropy**.
+ℹ️ A fractal — like a fern leaf or snowflake — may look infinitely complex, but can often be generated with a **tiny, elegant equation**. That means its **information content is low**, but its **visual complexity is high** — a perfect example of **high structure and low entropy**.
 
 ℹ️ In contrast, a noisy JPEG photo contains high entropy. It can't be compressed much without losing detail, because its structure is not mathematical — it's statistical.
 
