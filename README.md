@@ -1,5 +1,5 @@
 # Summary 
-**An open and lightweight "visual DNA" based image generator that uses an advanced fractal generator instead of a neural network, but uses only a lightweight semantic instructor AI, to guide the advanced fractal generator with the semantic. A possible competitor to actual AI image generators, more efficient, lightweight and without losing quality.**
+**An open and lightweight "visual DNA"-based image generator that uses an advanced fractal generator instead of a neural network, but uses only a lightweight semantic instructor AI, to guide the advanced fractal generator with the semantics. A possible competitor to actual AI image generators, more efficient, lightweight and without losing quality.**
 
 ---
 
