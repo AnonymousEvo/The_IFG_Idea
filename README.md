@@ -27,7 +27,7 @@ This distinction is key to IFG:
 - **Efficient**
 - And grounded in **order over chaos**.
 
---
+---
 
 ⚠️ **Modern image generators are wasteful.**  
 They burn GPU cycles on billions of weights to “guess” how an image *might* look — without true structure, reasoning, or modularity.
