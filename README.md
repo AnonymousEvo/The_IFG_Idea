@@ -17,7 +17,7 @@
 This distinction is key to IFG:
 
 - ℹ️ We use **structured, compressible math** to generate **visual complexity**.
-- ℹ️ A `.frac` file carry a compilation of **compressed, modular, ordered knowledge**.
+- ℹ️ A `.frac` file carries a compilation of **compressed, modular, ordered knowledge**.
 - ℹ️ A `.frac` file is a compilation of **"visual genes"**: small in size, rich in potential.
 
 ℹ️ By combining these components semantically — rather than guessing pixels with a neural net — we produce images that are:
