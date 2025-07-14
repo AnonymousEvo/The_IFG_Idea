@@ -2,13 +2,15 @@
 **An open and lightweight "visual DNA"-based image generator that uses an advanced fractal generator instead of a neural network, but uses only a lightweight semantic instructor AI, to guide the advanced fractal generator with the semantics. A possible competitor to actual AI image generators, more efficient, lightweight and without losing quality.**
 
 ---
+⚠️ *This is just an idea that is in development, of a new technology, and can be used by anyone.*
+---
 
 ## Information Theory, Entropy, and Why It Matters 📊
 
 ℹ️ In the field of **Information Theory** (formulated by Claude Shannon), *entropy* is a measure of **unpredictability** or **disorder** in a message. It represents how much **information** is actually carried — or, conversely, how much **compression** is possible.
 
-➡️ **The more compressible a piece of data is, the more structured and ordered it is.**  
-➡️ **The less compressible it is, the more random or chaotic.**
+- **The more compressible a piece of data is, the more structured and ordered it is.**  
+- **The less compressible it is, the more random or chaotic.**
 
 ℹ️ A fractal — like a fern leaf or snowflake — may look infinitely complex, but can often be generated with a **tiny, elegant equation**. That means its **information content is low**, but its **visual complexity is high** — a perfect example of **high structure and low entropy**.
 
@@ -42,10 +44,10 @@ They burn GPU cycles on billions of weights to “guess” how an image *might* 
 
 Each contains:
 
-- ➡️ A **mathematical base** (Bezier, L-System, Superformula, IFS…).
-- ➡️ Multiple **adjustable parameters** (scale, curvature, symmetry, noise, etc.).
-- ➡️ **Semantic tags** (`["ear", "male", "animal"]`).
-- ➡️ Optional **style hints** (`"rough"`, `"smooth"`, `"ink"`, etc.).
+- A **mathematical base** (Bezier, L-System, Superformula, IFS…).
+- Multiple **adjustable parameters** (scale, curvature, symmetry, noise, etc.).
+- **Semantic tags** (`["ear", "male", "animal"]`).
+- Optional **style hints** (`"rough"`, `"smooth"`, `"ink"`, etc.).
 
 ℹ️ These components are **not rasterized blobs**, but **compressed instruction sets** — they carry **information with generative power**.
 
@@ -57,10 +59,10 @@ Each contains:
 
 It performs:
 
-- ➡️ **Prompt parsing** (extracting meaning and keywords).
-- ➡️ **Semantic matching** (finding relevant parameters in `.frac` file).
-- ➡️ **Contextual adjustment** (modifying parameters based on prompt and history).
-- ➡️ **Seed-driven variability** (so the same prompt doesn't always look the same).
+- **Prompt parsing** (extracting meaning and keywords).
+- **Semantic matching** (finding relevant parameters in `.frac` file).
+- **Contextual adjustment** (modifying parameters based on prompt and history).
+- **Seed-driven variability** (so the same prompt doesn't always look the same).
 
 ℹ️ Think of it as a **semantic compiler.**:
 
@@ -70,9 +72,9 @@ It performs:
 
 It can be built with:
 
-- ➡️ Lightweight NLP (spaCy, MiniLM).
-- ➡️ Rule-based engines.
-- ➡️ Vector similarity matching.
+- Lightweight NLP (spaCy, MiniLM).
+- Rule-based engines.
+- Vector similarity matching.
 
 ℹ️ It can run on **CPUs, browsers, embedded chips — even offline**.
 
@@ -87,10 +89,10 @@ When you provide a prompt like:
 *cyberpunk man, robotic arm, city, neon lights, solo, standing, best quality*
 
 ℹ️ The **lightweight semantic instructor AI** will always interpret this in the same way:
-- ➡️ A male character with cyberpunk traits
-- ➡️ One robotic arm
-- ➡️ A neon-lit environment
-- ➡️ He is alone and standing
+- A male character with cyberpunk traits
+- One robotic arm
+- A neon-lit environment
+- He is alone and standing
 
 ℹ️ No matter the seed, the **meaning stays the same**. The AI does **not hallucinate or invent** — it stays true to the prompt.
 
@@ -100,12 +102,12 @@ When you provide a prompt like:
 
 ℹ️ The seed value (e.g., `seed = 13745`) determines the **visual and stylistic execution**, including:
 
-- ➡️ The specific `.frac` modules selected (e.g. `"arm_mechanical"` vs. `"arm_cyberblade"`).
-- ➡️ Pose and spatial layout (e.g. frontal, side view, arms position).
-- ➡️ Lighting colors and direction (e.g. purple vs. green neon).
-- ➡️ Style hints (e.g. minimal vs. ornate).
-- ➡️ Subtle parameter variations within `.frac` components (if allowed).
+- The specific `.frac` modules selected (e.g. `"arm_mechanical"` vs. `"arm_cyberblade"`).
+- Pose and spatial layout (e.g. frontal, side view, arms position).
+- Lighting colors and direction (e.g. purple vs. green neon).
+- Style hints (e.g. minimal vs. ornate).
+- Subtle parameter variations within `.frac` components (if allowed).
 
 ℹ️ This makes the seed a **creative entropy key**:  
-- ➡️ **Same prompt + same seed = identical output.**  
-- ➡️ **Same prompt + different seed = visually different, semantically identical output.**
+- **Same prompt + same seed = identical output.**  
+- **Same prompt + different seed = visually different, semantically identical output.**
