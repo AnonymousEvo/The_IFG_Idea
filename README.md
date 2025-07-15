@@ -59,11 +59,11 @@ Each contains:
 
 ---
 
-## The Lightweight Semantic Instructor AI 🧠
+## Semantic Instructor AI 🧠
 
-ℹ️ The AI module inside IFG is intentionally small and efficient.
+ℹ️ There can be various sizes of semantic instructor models, **smaller** models are *lightweight* but *less capable*, **larger** models are *more capable* and *accurate* but *heavier*, but nothing compared to the size and weight of current diffusion models.
 
-It performs:
+This AI performs:
 
 - **Prompt parsing** (extracting meaning and keywords).
 - **Semantic matching** (finding relevant parameters in `.frac` file).
