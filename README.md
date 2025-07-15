@@ -61,7 +61,7 @@ Each contains:
 
 ## The Semantic Instructor AI 🧠
 
-ℹ️ There can be various sizes of semantic instructor models, **smaller** models are *lightweight* but *less capable*, **larger** models are *more capable* and *accurate* but *heavier*, but nothing compared to the size and weight of current diffusion models.
+ℹ️ **There can be various sizes of semantic instructor models**, ***smaller*** models are *lightweight* but *less capable*, ***larger*** models are *more capable* and *accurate* but *heavier*, but nothing compared to the size and weight of current diffusion models.
 
 This AI performs:
 
