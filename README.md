@@ -59,7 +59,7 @@ Each contains:
 
 ---
 
-## Semantic Instructor AI 🧠
+## The Semantic Instructor AI 🧠
 
 ℹ️ There can be various sizes of semantic instructor models, **smaller** models are *lightweight* but *less capable*, **larger** models are *more capable* and *accurate* but *heavier*, but nothing compared to the size and weight of current diffusion models.
 
@@ -86,7 +86,7 @@ It can be built with:
 
 ---
 
-## Seed System 🎲
+## The Seed System 🎲
 
 ℹ️ The IFG framework introduces a **deterministic seed system** that injects **controlled visual variation**, without ever-changing the **semantic core** of the user’s prompt.
 
