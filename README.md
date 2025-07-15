@@ -3,6 +3,10 @@
 
 ---
 
+<img width="1265" height="653" alt="ifg-diagram" src="https://github.com/user-attachments/assets/855f253a-b734-47d2-8044-22e3a4ddcdc1" />
+
+---
+
 ⚠️ *This is just an idea that is in development, of a new technology, and can be used by anyone.*
 
 ---
